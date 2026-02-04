@@ -19,9 +19,9 @@ This implementation follows the standard CFG-to-PDA construction described in th
 
 The `ply/` directory contains the official source files for **PLY (Python Lex-Yacc)**,
 copied directly from the PLY GitHub repository as recommended by the author.
-- [`ply`](ply/__init__.py)
-- [`ply`](ply/lex.py)
-- [`ply`](ply/yacc.py)
+- [`ply/init__`](ply/__init__.py)
+- [`ply/lex`](ply/lex.py)
+- [`ply/yacc`](ply/yacc.py)
 
 ---
 
