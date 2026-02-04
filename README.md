@@ -14,17 +14,11 @@ This implementation follows the standard CFG-to-PDA construction described in th
 - **Tolu Adekore**: PDA Simulation  
   [`cfg_to_pda/simulator.py`](cfg_to_pda/simulator.py), [`main.py`](main.py)
 
-- **Reet Singh**: *To be assigned*
-
-- **Shahbaaz Gill**: *To be assigned*
-
-### Remaining Components (to be assigned)
-
-- CFG Structure Builder (PLY Parser)  
-  [`grammar_parser/parser.py`](grammar_parser/parser.py)
-
-- CFG → PDA Conversion  
+- **Reet Singh**: CFG → PDA Conversion  
   [`cfg_to_pda/converter.py`](cfg_to_pda/converter.py)
+
+- **Shahbaaz Gill**: CFG Structure Builder (PLY Parser)  
+  [`grammar_parser/parser.py`](grammar_parser/parser.py)
 
 ---
 
