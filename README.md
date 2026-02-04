@@ -6,12 +6,22 @@ This implementation follows the standard CFG-to-PDA construction described in th
 
 ---
 
-## Work/File Distribution
+## Work Distribution
 
 - **Nicole Zino**: 
 - **Tolu Adekore**:
 - **Reet Singh**:
 - **Shahbaaz Gill**: 
+
+---
+
+## Project Structure
+
+The `ply/` directory contains the official source files for **PLY (Python Lex-Yacc)**,
+copied directly from the PLY GitHub repository as recommended by the author.
+- [`ply`](ply/__init__.py)
+- [`ply`](ply/lex.py)
+- [`ply`](ply/yacc.py)
 
 ---
 
@@ -30,6 +40,8 @@ PLY is included locally in this repository by copying the official source files
 from the PLY GitHub repository, as recommended by the author.
 
 Source: https://github.com/dabeaz/ply
+
+
 
 ---
 
