@@ -12,7 +12,7 @@ This implementation follows the standard CFG-to-PDA construction described in th
   [`grammar_parser/lexer.py`](grammar_parser/lexer.py)
 
 - **Tolu Adekore**: PDA Simulation  
-  [`cfg_to_pda/simulator.py`](cfg_to_pda/simulator.py)
+  [`cfg_to_pda/simulator.py`](cfg_to_pda/simulator.py), [`main.py`](main.py)
 
 - **Reet Singh**: *To be assigned*
 
