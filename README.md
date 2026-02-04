@@ -6,12 +6,25 @@ This implementation follows the standard CFG-to-PDA construction described in th
 
 ---
 
-## Work Distribution
+## Work Distribution 
 
-- **Nicole Zino**: 
-- **Tolu Adekore**:
-- **Reet Singh**:
-- **Shahbaaz Gill**: 
+- **Nicole Zino**: CFG Tokenization (PLY Lexer)  
+  [`grammar_parser/lexer.py`](grammar_parser/lexer.py)
+
+- **Tolu Adekore**: PDA Simulation  
+  [`cfg_to_pda/simulator.py`](cfg_to_pda/simulator.py)
+
+- **Reet Singh**: *To be assigned*
+
+- **Shahbaaz Gill**: *To be assigned*
+
+### Remaining Components (to be assigned)
+
+- CFG Structure Builder (PLY Parser)  
+  [`grammar_parser/parser.py`](grammar_parser/parser.py)
+
+- CFG → PDA Conversion  
+  [`cfg_to_pda/converter.py`](cfg_to_pda/converter.py)
 
 ---
 
